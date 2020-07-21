@@ -54,6 +54,9 @@ class App extends React.Component {
   renderAdminRoutes = () =>{
   ///////////sasdasd
     ////memberikan komenter///////
+    ///////
+    //asdadasd
+    //wisnu
     if(this.props.user.role==="admin")
     {
       return <>
